@@ -35,6 +35,13 @@ background-color: #fff;
     background-color: #3498db;
 }
 
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
+.ui-menu-color-github {
+    background-color: #251f7c;
+}
 .ui-menu-color-download {
     background-color: #525252;
 }
